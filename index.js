@@ -1,1 +1,3 @@
-// Follow along with the examples here
+function introductionWithLanguageOptional(name, language) {
+  language = "JavaScript"
+introductionWithLanguage()
